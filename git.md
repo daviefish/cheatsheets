@@ -8,5 +8,5 @@ checkout - look at previous snapshots
 log - shows commit logs
 diff - shows all differences between commits
 clone - clone a repository into a new directory
-push - 
-pull - 
+push - to be added
+pull - to be added
